@@ -1,4 +1,3 @@
-# DNB TASK
 
 ## DESIGN PATTERN
    Follow MVVM desing pattern with Navigator
